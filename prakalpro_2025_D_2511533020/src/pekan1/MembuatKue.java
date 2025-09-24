@@ -30,5 +30,5 @@ public class MembuatKue {
 		System.out.println("Campur bahan untuk frosting.");
 		System.out.println("Taburkan frosting dan taburan.");
 		
-	}
+	}  
 }
